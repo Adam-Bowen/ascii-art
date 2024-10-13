@@ -2,6 +2,8 @@
 
 This Python script converts images to ASCII art and saves the result as both a text file and a PNG image with a transparent background. ject converts images into ASCII art and saves the results both as a PNG file and as plain text. The tool can be used to generate ASCII representations of images, which can then be displayed in terminals, text editors, or dashboards e.g. nvim.
 
+![GZpMxgHWkAceOuM](https://github.com/user-attachments/assets/05e59e76-f03c-4c28-b550-d8cb8cdbc553)
+
 ## Requirements
 
 - Python 3.x
