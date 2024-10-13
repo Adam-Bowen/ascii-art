@@ -5,6 +5,17 @@ This Python script converts images to ASCII art and saves the result as both a t
 ## Example
 ![GZpMxgHWkAceOuM](https://github.com/user-attachments/assets/05e59e76-f03c-4c28-b550-d8cb8cdbc553)
 
+
+## Usage
+
+1. Place your image file in the same directory as the script.
+2. Update the `IMAGE_PATH` variable in the script with your image filename.
+3. Run the script:
+
+   ```bash
+   python main.py
+   ```
+
 ## Requirements
 
 - Python 3.x
@@ -16,15 +27,6 @@ Make sure you are in a virtual environment and then install the required depende
 pip install -r requirements.txt
 ```
 
-## Usage
-
-1. Place your image file in the same directory as the script.
-2. Update the `IMAGE_PATH` variable in the script with your image filename.
-3. Run the script:
-
-   ```bash
-   python main.py
-   ```
 
 ## How The Converter Works
 
