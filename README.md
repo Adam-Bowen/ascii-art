@@ -4,7 +4,6 @@ This Python script converts images to ASCII art and saves the result as both a t
 
 ## Example
 ![GZpMxgHWkAceOuM](https://github.com/user-attachments/assets/05e59e76-f03c-4c28-b550-d8cb8cdbc553)
-![CleanShot 2024-10-12 at 23 43 16@2x](https://github.com/user-attachments/assets/57a5eaad-c663-45ef-b538-2d3fb053621f)
 
 
 
